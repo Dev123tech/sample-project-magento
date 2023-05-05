@@ -1,0 +1,2 @@
+# synamen
+Magento inside module
